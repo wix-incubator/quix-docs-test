@@ -3,7 +3,6 @@ title: What's Quix?
 shortTitle: Quix
 ---
 
-
 Quix is [in one-two sentences, tell about the core benefits and purpose]
 
 ## Build insights (Use Case 1)
