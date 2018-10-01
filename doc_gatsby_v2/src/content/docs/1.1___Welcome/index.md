@@ -1,6 +1,7 @@
 ---
 title: What's Quix?
 shortTitle: Quix
+categories: ['frontdoor']
 ---
 
 Quix is [in one-two sentences, tell about the core benefits and purpose]
