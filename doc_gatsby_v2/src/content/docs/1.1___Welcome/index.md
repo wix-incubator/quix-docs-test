@@ -1,6 +1,7 @@
 ---
 title: What's Quix?
-shortTitle---
+shortTitle: Quix
+---
 
 
 Quix is [in one-two sentences, tell about the core benefits and purpose]
