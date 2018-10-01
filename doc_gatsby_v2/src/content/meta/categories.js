@@ -6,13 +6,13 @@ import HomeIcon from 'react-feather/dist/icons/home';
 
 export const categories = [
   { name: 'frontdoor', label: 'Welcome', icon: HomeIcon },
-  { name: 'discover', label: 'Discover', icon: SettingsIcon },
-  { name: 'install', label: 'Install', icon: SettingsIcon },
+  { name: 'discover', label: 'Discover', icon: GitBranchIcon },
+  { name: 'install', label: 'Install', icon: ImageIcon },
   { name: 'config', label: 'Configure', icon: SettingsIcon },
   { name: 'deploy', label: 'Deploy', icon: SettingsIcon },
   { name: 'concepts', label: 'Concepts', icon: SettingsIcon },
   { name: 'use', label: 'Common use', icon: SettingsIcon },
-  { name: 'rolse', label: 'Use by role', icon: SettingsIcon }
+  { name: 'roles', label: 'Use by role', icon: FolderPlusIcon }
 ];
 
 export default categories;
