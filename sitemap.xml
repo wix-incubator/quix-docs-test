@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/catalog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/welcome_all/1.2.2___config/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/3.1.2__use_case_2/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/3.1.2__use_case_1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/welcome_all/1.2.3___map/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/3.1.2__use_case_5/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/welcome_all/1.2.1___install/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ut-enim-ad-minima/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/3.1.2__use_case_4/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/3.1.2__use_case_3/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/ullam-corporis-suscipit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/Laboriosam/2.2.1___getting_started/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/Laboriosam/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/Laboriosam/2.2.2___concepts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/licence/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/API/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/API/6.1.2___intergation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/API/6.1.3_extend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/welcome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://github.com/greglobinski/gatsby-starter-kit/quix-docs-test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/wix-incubator/quix-docs-test/quix-docs-test/catalog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/wix-incubator/quix-docs-test/quix-docs-test/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/wix-incubator/quix-docs-test/quix-docs-test/welcome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/wix-incubator/quix-docs-test/quix-docs-test/content/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://github.com/wix-incubator/quix-docs-test/quix-docs-test/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
